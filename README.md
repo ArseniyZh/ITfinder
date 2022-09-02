@@ -13,8 +13,8 @@
 <br> <hr>
 <p>Инструкция по установке: <br>
 <em>1) Скопировать репозиторий любым удобным способом (например "git clone https://github.com/ArseniyZh/ITfinder"); <br>
-2) Из корня дирректории запустить "pip install -r requirements.txt";
-3) Отсюда же запустить "python maange.py runserver";
+2) Из корня дирректории запустить "pip install -r requirements.txt"; <br>
+3) Отсюда же запустить "python manage.py runserver"; <br>
 4) Перейти на http://127.0.0.1:8000/ ;
 </em>
 
